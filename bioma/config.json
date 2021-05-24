@@ -10,10 +10,10 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": "ONGs | Ano de Fundação"
+    "title": "ONGs | Bioma"
   },
   "legend": {
-    "edgeLabel": "Ano de Fundação",
+    "edgeLabel": "Bioma",
     "colorLabel": "modularidade",
     "nodeLabel": "ONG"
   },
