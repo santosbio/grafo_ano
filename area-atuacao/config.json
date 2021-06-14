@@ -5,7 +5,7 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "OC"
+    "text": "Observatório do Clima"
   },
   "text": {
     "more": "",
@@ -13,9 +13,9 @@
     "title": "ONGs | Área de Atuação"
   },
   "legend": {
-    "edgeLabel": "conexão",
-    "colorLabel": "modularity class",
-    "nodeLabel": "video"
+    "edgeLabel": "Área de Atuação",
+    "colorLabel": "modularidade",
+    "nodeLabel": "ONG"
   },
   "features": {
     "search": true,
@@ -32,12 +32,12 @@
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#fff",
+      "defaultLabelColor": "#000",
       "labelThreshold": 10,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 10
     },
     "graphProperties": {
       "maxEdgeSize": 2.0,
